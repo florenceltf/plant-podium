@@ -223,9 +223,6 @@ footer p {
     transform: scale(.9, 1);
 }
 
-.product-info .mobile-button {
-}
-
 .product-images {
     display: flex;
     flex-direction: column;
